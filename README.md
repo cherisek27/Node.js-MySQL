@@ -19,7 +19,9 @@ Reported bugs/fixes will be submitted to correction.
 
 <img width="557" alt="screen shot 2017-07-30 at 2 07 42 pm" src="https://user-images.githubusercontent.com/26241261/28757355-0387bcce-7536-11e7-8b4d-74931fd701f8.png">
 
-<img width="560" alt="screen shot 2017-07-30 at 2 08 07 pm" src="https://user-images.githubusercontent.com/26241261/28757364-3d7bec8e-7536-11e7-9576-bbf1652544b7.png">
+<img width="560" alt="screen shot 2017-07-30 at 2 08 07 pm" src="https://user-images.githubusercontent.com/26241261/28757364-3d7bec8e-7536-11e7-9576-bbf1652544b7.png"> 
+
+<img width="514" alt="screen shot 2017-07-30 at 2 09 10 pm" src="https://user-images.githubusercontent.com/26241261/28757375-71b195ee-7536-11e7-8332-283acd4ebf5e.png">
 
 #### **Packages Used** 
 ---------  
