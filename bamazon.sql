@@ -25,9 +25,9 @@ VALUES("blue jeans", "Apparel", "59.99", 160),
 	  ("t-shirt", "Apparel", "20.99", 250),
 	  ("pillows", "Home Decor", "10.00", 50),
 	  ("coffee table", "Home Decor", "75.00", 30), 
-      ("laptop", "Electronics", "899.99", 30), 
+     	  ("laptop", "Electronics", "899.99", 30), 
 	  ("headphones", "Electronics", "29.99", 70),
 	  ("suitcase", "Travel", "80.00", 15),
 	  ("dumbell weights", "Excercise Equipment", "29.99", 30),
 	  ("pull up bar", "Excercise Equipment", "59.99", 5),
-      ("televison", "Electronics", "1399.99", 100); 
+          ("televison", "Electronics", "1399.99", 100); 
