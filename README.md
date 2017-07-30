@@ -1,6 +1,6 @@
 # Bamazon 
 
-Amazon storefront with MySQL skills.
+An Amazon storefront with mastering of MySQL skills.
 --- 
 
 ## Licensing Information: READ LICENSE 
@@ -14,15 +14,18 @@ Author & Contributor List
 
 Cherise Knox 
 
-Reported bugs/fixes will be submitted to correction. 
+Reported bugs/fixes will be submitted to correction.  
 
-### **Packages Used** 
+### **App Overview**
+
+
+#### **Packages Used** 
 ---------  
 * Node.js 
 * Inquirer 
 * MySQL 
 
-### **Instructions:** 
+##### **Instructions:** 
 ----
 
 Challenge #1: Customer View (Minimum Requirement)
