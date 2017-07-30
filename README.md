@@ -16,8 +16,9 @@ Cherise Knox
 
 Reported bugs/fixes will be submitted to correction.  
 
-### **App Overview**
-
+### **App Overview** 
+---------
+<img width="563" alt="screen shot 2017-07-30 at 2 07 19 pm" src="https://user-images.githubusercontent.com/26241261/28757325-445a7206-7535-11e7-8617-883da1085326.png">
 
 #### **Packages Used** 
 ---------  
