@@ -6,9 +6,6 @@ An Amazon storefront with mastering of MySQL skills.
 ## Licensing Information: READ LICENSE 
 ---
 
-Project source can be downloaded from 
----
-
 Author & Contributor List 
 ------------
 
@@ -21,6 +18,8 @@ Reported bugs/fixes will be submitted to correction.
 <img width="563" alt="screen shot 2017-07-30 at 2 07 19 pm" src="https://user-images.githubusercontent.com/26241261/28757325-445a7206-7535-11e7-8617-883da1085326.png"> 
 
 <img width="557" alt="screen shot 2017-07-30 at 2 07 42 pm" src="https://user-images.githubusercontent.com/26241261/28757355-0387bcce-7536-11e7-8b4d-74931fd701f8.png">
+
+<img width="560" alt="screen shot 2017-07-30 at 2 08 07 pm" src="https://user-images.githubusercontent.com/26241261/28757364-3d7bec8e-7536-11e7-9576-bbf1652544b7.png">
 
 #### **Packages Used** 
 ---------  
