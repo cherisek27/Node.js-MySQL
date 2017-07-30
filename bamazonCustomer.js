@@ -1,6 +1,6 @@
 var mysql = require('mysql'); 
 var inquirer = require('inquirer'); 
-var padText = require('./padtext.js'); 
+var padText = require('./table.js'); 
 
 var connection = mysql.createConnection({
     host: "localhost", 
